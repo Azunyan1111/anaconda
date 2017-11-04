@@ -49,7 +49,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ChimeraCoder/tokenbucket"
+	"github.com/Azunyan1111/tokenbucket"
 	"github.com/garyburd/go-oauth/oauth"
 )
 
